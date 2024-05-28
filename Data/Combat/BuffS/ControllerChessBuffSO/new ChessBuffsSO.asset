@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f56fc8e57485a3149ab948f5d7b65bbd, type: 3}
+  m_Name: new ChessBuffsSO
+  m_EditorClassIdentifier: 
+  RedBuff: {fileID: 11400000, guid: c85ee340861f2c748a9046c5ef689063, type: 2}
+  BlueBuff: {fileID: 11400000, guid: c4fe51aecbdb4d74e80b3b6c97a50544, type: 2}
+  GreenBuff: {fileID: 11400000, guid: bec6e3e82f73dad4b985703ff01d7630, type: 2}
+  YellowBuff: {fileID: 11400000, guid: 4c416b54dfb80f1418bc90a0060a1260, type: 2}
+  CubeBuff: {fileID: 11400000, guid: 0e6a542c614aedd4cb789647c5766668, type: 2}
+  SphereBuff: {fileID: 11400000, guid: 41b9a1c1191253c4caaac4339122cdc6, type: 2}
+  CapsuleBuff: {fileID: 11400000, guid: 59ba96d7970748644bac3737fdbe6324, type: 2}

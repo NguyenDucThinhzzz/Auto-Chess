@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4ec97ceb8260042b0497af568cc29a, type: 3}
+  m_Name: Wave 5
+  m_EditorClassIdentifier: 
+  AIChessDatas:
+  - <Chess>k__BackingField: {fileID: 8773356833868651632, guid: 9364985705227604994d39f32c17c343,
+      type: 3}
+    <Position>k__BackingField: {x: 0, y: 5}
+  - <Chess>k__BackingField: {fileID: 8773356833868651632, guid: 9364985705227604994d39f32c17c343,
+      type: 3}
+    <Position>k__BackingField: {x: 1, y: 5}
+  - <Chess>k__BackingField: {fileID: 2389784629116514299, guid: ca380468d9a296b4b909ce07549da5a1,
+      type: 3}
+    <Position>k__BackingField: {x: 2, y: 5}
+  - <Chess>k__BackingField: {fileID: 2389784629116514299, guid: ca380468d9a296b4b909ce07549da5a1,
+      type: 3}
+    <Position>k__BackingField: {x: 3, y: 5}
+  - <Chess>k__BackingField: {fileID: 2389784629116514299, guid: ca380468d9a296b4b909ce07549da5a1,
+      type: 3}
+    <Position>k__BackingField: {x: 4, y: 5}
+  - <Chess>k__BackingField: {fileID: 8773356833868651632, guid: 9364985705227604994d39f32c17c343,
+      type: 3}
+    <Position>k__BackingField: {x: 5, y: 5}
+  - <Chess>k__BackingField: {fileID: 8773356833868651632, guid: 9364985705227604994d39f32c17c343,
+      type: 3}
+    <Position>k__BackingField: {x: 6, y: 5}
+  - <Chess>k__BackingField: {fileID: 8773356833868651632, guid: 9364985705227604994d39f32c17c343,
+      type: 3}
+    <Position>k__BackingField: {x: 7, y: 5}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6299a404ce016f84392a7c73f9f4592e, type: 3}
+  m_Name: Red Buffs
+  m_EditorClassIdentifier: 
+  Name: Red
+  Image: {fileID: 21300000, guid: 20599cb1908928a479b488b3e33fa3f5, type: 3}
+  BuffStages:
+  - CountTarget: 1
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 10
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 0
+  - CountTarget: 3
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 20
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 0
+  - CountTarget: 5
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 45
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 0
+  - CountTarget: 7
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 70
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720c2100b76ccee45a7a1892ed80a8fe, type: 3}
+  m_Name: Red Cube
+  m_EditorClassIdentifier: 
+  ID: 0
+  Name: Red Cube
+  Image: {fileID: 21300000, guid: 20599cb1908928a479b488b3e33fa3f5, type: 3}
+  Description: This is a Red Cube
+  ColorClass: 0
+  ShapeClass: 0
+  StatData:
+    Health: 100
+    Attack: 15
+    Defend: 4
+    Speed: 1
+    AttackSpeed: 1
+    Range: 4
+  Shooting: {fileID: 8300000, guid: feb0944d4074677438fe6135c4271679, type: 3}

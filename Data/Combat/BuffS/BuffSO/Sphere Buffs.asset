@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6299a404ce016f84392a7c73f9f4592e, type: 3}
+  m_Name: Sphere Buffs
+  m_EditorClassIdentifier: 
+  Name: Sphere
+  Image: {fileID: 21300000, guid: bfa9987b11f7f36499f425bd218d0c02, type: 3}
+  BuffStages:
+  - CountTarget: 4
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 15
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 5
+  - CountTarget: 6
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 30
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 5
+  - CountTarget: 9
+    Buff:
+      Modifier:
+        <Value>k__BackingField: 60
+        <ModifierType>k__BackingField: 1
+        <Timer>k__BackingField: -1
+      StatType: 5

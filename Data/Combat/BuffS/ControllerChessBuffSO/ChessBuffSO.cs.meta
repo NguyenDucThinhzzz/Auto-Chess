@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f56fc8e57485a3149ab948f5d7b65bbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedBuff: {fileID: 11400000, guid: 0a0a863afc4a61a43947910733f5c914, type: 2}
+  - BlueBuff: {instanceID: 0}
+  - GreenBuff: {instanceID: 0}
+  - YellowBuff: {instanceID: 0}
+  - CubeBuff: {instanceID: 0}
+  - SphereBuff: {instanceID: 0}
+  - CapsuleBuff: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
